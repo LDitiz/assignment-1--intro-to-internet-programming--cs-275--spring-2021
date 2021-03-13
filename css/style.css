@@ -1,0 +1,32 @@
+header{
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  background-color: white;
+}
+
+body{
+  flex-wrap: wrap;
+  padding: 20px 50px;
+  margin-bottom: 18px;
+  align-content: space-between;
+  justify-content: flex-start;
+}
+
+h1{
+  line-height: 26px;
+  margin-bottom: 32px;
+}
+
+main{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  line-height: 30px;
+  align-content: space-between;
+}
+
+p{
+  padding: 10px;
+  border: 2px solid;
+}
